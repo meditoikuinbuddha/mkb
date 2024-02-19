@@ -1,0 +1,41 @@
+# /_data/authors.yml
+
+meditoikuinbuddha.fi:
+  name: "meditoikuinbuddha.fi"
+  avatar: "/assets/images/avatar.jpg"
+  bio: "Buddhan jäljillä."
+  location: "Suomi"
+  links:
+    - label: "Ota yhteyttä!"
+      icon: "fas fa-envelope"
+      url: "https://meditoikuinbuddha@gmail.com"
+    - label: "Seuraa Facebookissa"
+      icon: "fab fa-facebook-f"
+      url: "https://www.facebook.com/profile.php?id=61555870603768"
+
+Ajahn Brahm:
+  name: "Ajahn Brahm"
+  avatar: "/assets/images/avatarbrahm.png"
+  bio: "Rakastettu meditointimestari."
+  location: "Länsi-Australia"
+  links:
+    - label: "Opetuksia"
+      icon: "fa-solid fa-link"
+      url: "https://bitly.ws/3dBc5"
+    - label: "Info"
+      icon: "fa-solid fa-info"
+      url: "https://bswa.org/teachers/ajahn-brahm/"
+
+Ajahn Brahmali:
+  name        : "Ajahn Brahmali"
+  bio         : "Buddhalainen opettaja ja <i>sutta</i>-asiantuntija"
+  avatar      : "/assets/images/avatarbrahmali.jpg"
+  location    : Länsi-Australia
+  links:
+    - label: "Lisää"
+      icon: "fa-solid fa-link"
+      url: "https://bitly.ws/3dBb6"
+    - label: "Info"
+      icon: "fa-solid fa-info"
+      url: "https://bswa.org/teachers/ajahn-brahmali/"
+
