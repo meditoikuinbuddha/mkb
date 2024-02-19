@@ -36,6 +36,6 @@ Ajahn Brahmali:
       icon: "fa-solid fa-link"
       url: "https://bitly.ws/3dBb6"
     - label: "Info"
-      icon: <i class="fa-solid fa-circle-info"></i>
+      icon: "fa-solid fa-circle-info"
       url: "https://bswa.org/teachers/ajahn-brahmali/"
 
