@@ -20,10 +20,10 @@ Ajahn Brahm:
   location: "Länsi-Australia"
   links:
     - label: "Opetuksia"
-      icon: "fa-solid fa-link"
+      icon: ""
       url: "https://bitly.ws/3dBc5"
     - label: "Info"
-      icon: "fa-solid fa-info"
+      icon: ""
       url: "https://bswa.org/teachers/ajahn-brahm/"
 
 Ajahn Brahmali:
@@ -33,9 +33,9 @@ Ajahn Brahmali:
   location    : Länsi-Australia
   links:
     - label: "Lisää"
-      icon: "fa-solid fa-link"
+      icon: ""
       url: "https://bitly.ws/3dBb6"
     - label: "Info"
-      icon: "fa-solid fa-circle-info"
+      icon: ""
       url: "https://bswa.org/teachers/ajahn-brahmali/"
 
